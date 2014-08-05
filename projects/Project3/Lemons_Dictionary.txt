@@ -26,7 +26,7 @@ MMRCurrentRetailAveragePrice		Acquisition price for this vehicle in the retail m
 MMRCurrentRetailCleanPrice		Acquisition price for this vehicle in the retail market in above average condition as of current day
 PRIMEUNIT				Identifies if the vehicle would have a higher demand than a standard purchase
 AcquisitionType				Identifies how the vehicle was aquired (Auction buy, trade in, etc)
-AUCGUART				The level guarntee provided by auction for the vehicle (Green light - Guaranteed/arbitratable, Yellow Light - caution/issue, red light - sold as is)
+AUCGUART				The level guarantee provided by auction for the vehicle (Green light - Guaranteed/arbitratable, Yellow Light - caution/issue, red light - sold as is)
 BYRNO					Unique number assigned to the buyer that purchased the vehicle
 VNZIP                                   Zipcode where the car was purchased
 VNST                                    State where the the car was purchased

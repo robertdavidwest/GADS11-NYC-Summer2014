@@ -1,0 +1,2 @@
+,f1_insample,f1_outsample,model,r2_insample,r2_outsample
+0,0.9817073170731708,0.0700572583361401,RandomForestClassifier(n_estimators=30),0.9956367963507752,0.8637283450964908
